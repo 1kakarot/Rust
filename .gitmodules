@@ -1,0 +1,21 @@
+[submodule "ch03"]
+	path = ch03
+	url = git@github.com:1kakarot/ch03.git
+[submodule "Rust-Programming-By-Example"]
+	path = Rust-Programming-By-Example
+	url = https://github.com/PacktPublishing/Rust-Programming-By-Example.git
+[submodule "hello_world"]
+	path = hello_world
+	url = git@github.com:1kakarot/hello_world.git
+[submodule "common_divisor"]
+	path = common_divisor
+	url = git@github.com:1kakarot/common_divisor.git
+[submodule "guessing_game"]
+	path = guessing_game
+	url = git@github.com:1kakarot/guessing_game.git
+[submodule "impl_method"]
+	path = impl_method
+	url = git@github.com:1kakarot/impl_method.git
+[submodule "print_struct"]
+	path = print_struct
+	url = git@github.com:1kakarot/print_struct.git
